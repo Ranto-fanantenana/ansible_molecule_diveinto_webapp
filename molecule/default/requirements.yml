@@ -1,0 +1,5 @@
+---
+- role: nginx
+  src: git@github.com:Ranto-fanantenana/ansible_molecule_diveinto.git
+  version: main
+  scm: git
